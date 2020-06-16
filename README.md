@@ -8,4 +8,4 @@ Basic Requirements:
 4. Handle Check conditions.
 
 Class Diagram:
-![alt text](https://github.com/MayV/ChessGame/blob/master/Chess%20Game%20Class%20Diagram.png?raw=true)
+![alt text](https://github.com/MayV/ChessGame/blob/master/ClassDiagram.png?raw=true)
