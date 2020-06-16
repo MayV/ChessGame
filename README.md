@@ -7,5 +7,5 @@ Basic Requirements:
 	(Consider only CheckMate and StaleMate condition)
 4. Handle Check conditions.
 
-# Class Diagram
+Class Diagram:
 ![alt text](https://github.com/MayV/ChessGame/blob/master/Chess%20Game%20Class%20Diagram.png?raw=true)
